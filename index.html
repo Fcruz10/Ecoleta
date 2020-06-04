@@ -7,6 +7,8 @@
 
     <link rel="stylesheet" href="./styles/main.css">
     <link rel="stylesheet" href="./styles/home.css">
+    <link rel="stylesheet" href="./styles/modal.css">
+
     <link rel="stylesheet" href="./styles/responsive.css">
 
 </head>
@@ -17,7 +19,7 @@
         <div class="content">
             <header>
                 <img src="./assets/logo.svg" alt="Ecoleta Logo">
-                <a href="#">
+                <a href="/create-point.html">
                     <span></span>
                     Register a collect point</a>
             </header>
@@ -30,10 +32,30 @@
                 <a href="#"> <span></span> <strong>Search collect points</strong></a href="#">
             </main>
                 
-            </div>
-            
         </div>
+            
+    </div>
+
+    <div id="modal" class="hide">
+        <div class="content">
+            <div class="header">
+                <h1>Collect Points</h1>
+                <a href="#">Close</a>
+            </div>
+
+            <form action="/search-results.html">
+                <label for="search">City</label>
+                <div class="search field">
+                    <input type="text" name="search" placeholder="Search City">
+                    <button>
+                        <img src="./assets/search.svg" alt="Search">
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
         
-        
+    <script src="./scripts/index.js"></script>
+
 </body>
 </html>
