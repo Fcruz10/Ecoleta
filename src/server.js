@@ -1,10 +1,15 @@
 const express = require('express');
 const nunjucks = require('nunjucks');
 
+//grab database
+const db = require('./database/db');
+
 const server = express();
 
+//configure public folder
 server.use(express.static('public'));
 
+//template engine
 nunjucks.configure('src/views', {
     express: server,
     noCache: true
