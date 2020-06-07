@@ -62,11 +62,12 @@ function handleSelectedItem(event) {
     itemLi.classList.toggle('selected');
 
     const itemId = itemLi.dataset.id;
+    // console.log('ITEM ID :', itemId)
 
-    //Check if item of selectedItems_array == itemId 
+    //Check if item are selected, selectedItems_array == itemId 
     const alreadySelected = selectedItems.findIndex( item => item == itemId ); //true or false
 
-    //Remove item of selectedItems_array
+    //Remove slectionn, remove item in selectedItems_array
     if( alreadySelected >= 0 ) {
         const filteredItems = selectedItems.filter( item => item != itemId );
 
@@ -76,6 +77,7 @@ function handleSelectedItem(event) {
         //if not selected add to selection
         selectedItems.push(itemId);
     }
+    // console.log('SELECTEDITEMS:', selectedItems)
 
     //update hidden input
     collectedItems.value = selectedItems

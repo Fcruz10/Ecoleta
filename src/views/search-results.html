@@ -1,4 +1,4 @@
-{% extends layout.html %}
+{% extends 'layout.html' %}
 
 {% set pageId = "page-search-results" %}
 
@@ -19,44 +19,40 @@
 
     <main>
 
-        <h4>
-            <strong>2 points</strong> found
-        </h4>
+        {% if total > 0 %}
 
-        <div class="cards">
-            <div class="card">
-                <img 
-                    src="https://images.unsplash.com/photo-1591193686104-fddba4d0e4d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" 
-                    alt="Colectoria"
-                >
+            <h4>
+                <strong>{{total}} points</strong> found
+            </h4>
 
-                <h1>Colectoria</h1>
+            <div class="cards">
 
-                <h3>Electronic Waste, Lamps</h3>
-                <p>
-                    Rio do Sul, Santa Catarina <br>
-                    Guilherme Gembala, Jardim América <br>
-                    Nº 260                    
-                </p>
+                {% for place in places %}
+                    <div class="card">
+                        <img 
+                            src="{{place.image}}" 
+                            alt="{{place.name}}"
+                        >
+
+                        <h1>{{place.name}}</h1>
+
+                        <h3>{{place.items}}</h3>
+                        <p>
+                            {{place.city}}, {{place.state}} <br>
+                            {{place.address}} <br>
+                            {{place.address2}}                    
+                        </p>
+                    </div>
+                {% endfor %}
+                
+
             </div>
 
-            <div class="card">
-                <img 
-                    src="https://images.unsplash.com/photo-1528323273322-d81458248d40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2001&q=80" 
-                    alt="Papersider"
-                >
-            
-                <h1>Papersider</h1>
-            
-                <h3>Paper and Cardboard</h3>
-                <p>
-                    Rio do Sul, Santa Catarina <br>
-                    Guilherme Gembala, Jardim América <br>
-                    Nº 260
-                </p>
-            </div>
+        {% else %}
 
-        </div>
+            <h4> <strong>No points</strong> found</h4>
+
+        {% endif %}
 
     </main>
 
