@@ -86,3 +86,7 @@
     color: white;
     margin-top: 32px;
 }
+
+#modal.point #error{
+    width: 64px;
+}

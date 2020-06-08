@@ -59,7 +59,7 @@ server.post('/savepoint', (req, res) => {
             console.log(err)
             //Create page error and redirect to /create-point like Registration sucess-> point-created.html
             //Error simulation 'INSERT INT places'
-            return res.send('Registration Error')
+            return res.render('create-point.html', { error: true })
         }
 
         console.log('Registado com sucesso')
