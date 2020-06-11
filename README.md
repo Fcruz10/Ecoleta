@@ -78,8 +78,8 @@ That aims to connect people to companies that collect specific waste such as lig
 
 This project was developed with the following technologies:
 
-| Front-end  |           Back-end  |  API |
-| ---------- | ------------------- | ---- |
+| Front-end  |   Back-end  |  API |
+| :--------: | :---------: | :--: |
 | <a href="https://mozilla.github.io/nunjucks/"><img width="80" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcss-tricks.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fnunjucks.png&f=1&nofb=1"></a> | <a href="https://nodejs.org/"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tipstoremember.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fnodejs_logo.png&f=1&nofb=1"></a> | [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) |
 | <a href="http://www.w3.org/TR/html5/"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs10.postimg.cc%2Fzadopghid%2Fhtml5.png&f=1&nofb=1"></a> | <a href="https://expressjs.com/"><img width="80" height="50" src="./public/github/expresslogo.png"></a> |
 | <a href="https://www.w3schools.com/Css/"><img width="35" height="35" src="./public/github/csslogo.png"></a> | <a href="https://nodemon.io/"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F13700%2F35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png&f=1&nofb=1"></a> |
