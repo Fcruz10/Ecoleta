@@ -43,7 +43,7 @@
 </p>
 
 <a id="nlw"></a>
-## :information_source: ℹ️ What's Next Level Week?
+## :information_source: What's Next Level Week?
 
 
 <img style="margin-right: 12px" align= left alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/c1a0101ed305530362b5120721c02f52a0026a29/.github/logo.svg" width="75px" />
@@ -56,7 +56,7 @@ An online and completely free event that will help you take the next step in you
 <br />
 
 <a id="about"></a>
-## :computer: 💻 About the Project
+## :computer: About the Project
 
 Ecoleta is a a waste collect market, a project developed based on international environment week. 
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
@@ -64,10 +64,13 @@ That aims to connect people to companies that collect specific waste such as lig
 <br />
 
 <h1>
-    <img style="margin-top: 15%" align="right" src="./public/github/eco2.png"  width="49%">
     <img src="./public/github/eco1.png"  width="49%">
     <img src="./public/github/eco3.png"  width="49%">
-    <img src="./public/github/eco4.png"  width="49%">
+</h1>
+
+<h1>
+    <img src="./public/github/eco4.png" width="49%">
+    <img src="./public/github/eco2.png" width="49%">
 </h1>
 
 <a id="techs"></a>
@@ -83,12 +86,12 @@ This project was developed with the following technologies:
 | <a href="https://www.javascript.com/"><img width="30" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fxabikos.gallerycdn.vsassets.io%2Fextensions%2Fxabikos%2Fjavascriptsnippets%2F1.7.2%2F1545658667284%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1"></a> | <a href="https://www.sqlite.org/"><img width="80" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FSQLite370.svg%2F1200px-SQLite370.svg.png&f=1&nofb=1"></a>
 
 <a id="layout"></a>
-## :bookmark: 🔖 Layout
+## :bookmark: Layout
 
 To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
 <a id="how-to-use"></a>
-## 🗂 How to Use
+## :open_file_folder: How to Use
 
 ```bash
 
@@ -108,7 +111,7 @@ To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28
 ```
 
 <a id="how-to-contribute"></a>
-## :bulb: 💡 How to contribute
+## :bulb: How to contribute
 
 -  Make a fork;
 -  Create a branch with your feature: `git checkout -b my-feature`;
