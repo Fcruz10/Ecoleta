@@ -64,11 +64,11 @@ That aims to connect people to companies that collect specific waste such as lig
 <br />
 
 <h1>
-    <img src="./public/github/eco1.png"  align ="center" width="49%">
+    <img src="./public/github/eco1.png" width="49%">
+    <img src="./public/github/eco3.png"  width="49%">
 </h1>
 
 <h1>
-    <img src="./public/github/eco3.png"  width="49%">
     <img src="./public/github/eco4.png" width="49%">
     <img src="./public/github/eco2.png" width="49%">
 </h1>
