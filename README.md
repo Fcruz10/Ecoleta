@@ -46,7 +46,7 @@
 ## :information_source: What's Next Level Week?
 
 
-<img style="margin-right: 12px" align= left alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/c1a0101ed305530362b5120721c02f52a0026a29/.github/logo.svg" width="75px" />
+<img style="margin-right: 10px" align= left alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/c1a0101ed305530362b5120721c02f52a0026a29/.github/logo.svg" width="75px" />
 
 
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
@@ -64,11 +64,11 @@ That aims to connect people to companies that collect specific waste such as lig
 <br />
 
 <h1>
-    <img src="./public/github/eco1.png"  width="49%">
-    <img src="./public/github/eco3.png"  width="49%">
+    <img src="./public/github/eco1.png"  align ="center" width="49%">
 </h1>
 
 <h1>
+    <img src="./public/github/eco3.png"  width="49%">
     <img src="./public/github/eco4.png" width="49%">
     <img src="./public/github/eco2.png" width="49%">
 </h1>
