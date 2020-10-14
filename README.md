@@ -8,7 +8,7 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7159c1">
   </a>
    <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
@@ -23,8 +23,8 @@
   <a href="https://www.linkedin.com/in/francisco-cruz-074208140/" >
     <img alt="Francisco Cruz" src="https://img.shields.io/badge/Francisco-in-%230072b1">
   </a>
-  <a>
-  <img alt="License" src="https://img.shields.io/github/license/Fcruz10/ecoleta?color=%237519C1">
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/Fcruz10/happy?color=%20%237159c1">
 
 </p>
 
