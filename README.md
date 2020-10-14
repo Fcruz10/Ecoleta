@@ -14,17 +14,17 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fcruz10/LaunchBase">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fcruz10/Ecoleta">
   
   <a href="https://github.com/Fcruz10/LaunchBase/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Fcruz10/LaunchBase">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Fcruz10/Ecoleta">
   </a>
 
   <a href="https://www.linkedin.com/in/francisco-cruz-074208140/" >
     <img alt="Francisco Cruz" src="https://img.shields.io/badge/Francisco-in-%230072b1">
   </a>
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+  <img alt="License" src="https://img.shields.io/github/license/Fcruz10/ecoleta?color=%237519C1">
 
 </p>
 
@@ -124,4 +124,5 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 This project is under the MIT license. See the [LICENSE](https://github.com/Fcruz10/Ecoleta/blob/master/LICENSE) for details.
 
-Made by Francisco Cruz [Get in touch!](https://www.linkedin.com/in/francisco-cruz-074208140/)
+<br />
+<p align="center"> Made by Francisco Cruz <a href="https://www.linkedin.com/in/francisco-cruz-074208140/"> Get in touch! </a> </p>
