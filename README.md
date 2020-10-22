@@ -5,6 +5,20 @@
     <br>
 </h3>
 
+<br />
+
+<h1 align="center">Index</h1>
+
+<p align="center">
+  <a href="#nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
+
 <p align="center">
 
   <a href="https://rocketseat.com.br">
@@ -29,18 +43,6 @@
 </p>
 
 <br />
-
-<h1 align="center">Index</h1>
-
-<p align="center">
-  <a href="#nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#about">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
-</p>
 
 <a id="nlw"></a>
 ## :information_source: What's Next Level Week?
@@ -125,4 +127,5 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](https://github.com/Fcruz10/Ecoleta/blob/master/LICENSE) for details.
 
 <br />
+
 <p align="center"> Made by Francisco Cruz <a href="https://www.linkedin.com/in/francisco-cruz-074208140/"> Get in touch! </a> </p>
