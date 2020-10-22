@@ -24,7 +24,7 @@
     <img alt="Francisco Cruz" src="https://img.shields.io/badge/Francisco-in-%230072b1">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/Fcruz10/happy?color=%20%237159c1">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Fcruz10/ecoleta?color=%20%237159c1">
 
 </p>
 
