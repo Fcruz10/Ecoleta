@@ -64,17 +64,17 @@ That aims to connect people to companies that collect specific waste such as lig
 
 <br />
 
-<h1 style="display: flex; justify-content: space-between; align-items: center">
+<h1>
     <img src="./public/github/eco1.png" width="49%">
     <img src="./public/github/eco3.png"  width="49%">
 </h1>
 
-<h1 style="display: flex; justify-content: space-between; align-items: center">
+<h1>
     <img src="./public/github/eco2.png" width="49%">
     <img src="./public/github/eco4.png" width="49%">
 </h1>
 
-<h1>
+<h1 align="center">
     <img src="./public/github/ecoleta.gif">
 </h1>
 
