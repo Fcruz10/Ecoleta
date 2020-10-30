@@ -123,7 +123,7 @@ To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28
 -  Commit changes: `git commit -m 'feat: My new feature'`;
 -  Make a push to your branch: `git push origin my-feature`.
 
-After merging your receipt request to done, you can delete a branch from yours.
+After your merging changes are accepted, you can delete your branch.
 
 <a id="license"></a>
 ## :memo: License
